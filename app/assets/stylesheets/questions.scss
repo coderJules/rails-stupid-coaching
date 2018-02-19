@@ -20,8 +20,7 @@ p {
   color: gray;
 }
 button {
-  width: 70px;
-  line-height: 40px;
+  width: 100px;
   font-family: Arial, sans-serif;
   border-radius: 5px;
   color: white;
@@ -63,5 +62,17 @@ button {
   font-size: 20px;
   font-weight: 100;
 }
+
+button a {
+  text-decoration: none;
+  color: white;
+  padding-top: 20px;
+}
+
+button {
+  padding: 10px 10px;
+  width: 100px;
+}
+
 
 
